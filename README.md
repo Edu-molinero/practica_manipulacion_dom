@@ -1,1 +1,1 @@
-# practica_manipulacion_dom
+# Práctica de la manipulación del DOM
